@@ -11,7 +11,7 @@ The code has been tested on Windows 10 and Ubuntu 22.04
 
 The reason for going my own way is that the full blown Resource usage relies on 'Visual Studio' and cannot be implemented on Linux.
 
-The software is distributed in C# as a [CodeBit](http://filemeta.org/CodeBit.html) located [here](https://raw.githubusercontent.com/FileMeta/MetaTag/master/MetaTag.cs). It is released under a [BSD 3-Clause](https://opensource.org/licenses/BSD-3-Clause) open source license.
+The software is distributed in C# as a [CodeBit](http://filemeta.org/CodeBit.html). It is released under a [BSD 3-Clause](https://opensource.org/licenses/BSD-3-Clause) open source license.
 
 This project includes the master copy of the CodeBit plus a set of unit tests which may also serve as sample code.
 
