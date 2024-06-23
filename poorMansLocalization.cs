@@ -3,7 +3,7 @@
 &_type=SoftwareSourceCode
 &name=PoorMansLocalization.cs
 &description="Simple Localization (language) class"
-// &codeRepository=https://github.com/
+&codeRepository=https://github.com/jc508/poorMansLocalization
 &version=1.0
 &codeSampleType=CodeBit See https://filemeta.org/CodeBit.html
 &keywords=CodeBit
