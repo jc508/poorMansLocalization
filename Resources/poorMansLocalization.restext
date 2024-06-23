@@ -1,0 +1,16 @@
+# Localization messages for inFileMeta
+# format defined in https://learn.microsoft.com/en-us/dotnet/core/extensions/create-resource-files
+# for poorMansLocalization implementation any white space immediately to the left or right of the '=' is omitted
+WhoAmI                         = The Localization test (English)
+GetPropertiesNotImplemented    = GetProperties for openxml files Not yet Implemented
+UnknownFileType                = Error!!  Unknown File Type {1}  
+NotOpenXMLFileType             = Error: File {1} is not of suitable Open-XML format
+CrashError                     = Error: {1}
+PropertiesMissing              = CustomFilePropertiesPart exists but not customProps.Properties ??????
+CustomPropertiesNotInFile      = Custom Properties not present in file (yet)
+CustomPropertiesToBeAdded      = Custom Properties not present in file (yet); adding now
+FailedSetCustomProperty        = ==> Set property {1} to {2}  Failed!
+TraceResult                    = ==> Result:{1}
+TestParameters                 = The message contains, {1} and {2}
+= dummy test for 'no key error'
+Dummy=

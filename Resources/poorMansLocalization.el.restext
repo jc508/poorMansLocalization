@@ -1,0 +1,13 @@
+# Localization messages for inFileMeta
+# format defined in https://learn.microsoft.com/en-us/dotnet/core/extensions/create-resource-files
+# for poorMansLocalization implementation any white space immediately to the left or right of the '=' is omitted
+WhoAmI                         = Το τεστ τοπικής προσαρμογής (Αγγλικά)
+GetPropertiesNotImplemented    = GetProperties για αρχεία openxml Δεν έχει ακόμη εφαρμοστεί
+UnknownFileType                = Λάθος!!  Άγνωστος τύπος αρχείου {1}
+NotOpenXMLFileType             = Σφάλμα: Το αρχείο {1} δεν είναι κατάλληλης μορφής Open-XML
+CrashError                     = Σφάλμα: {1}
+PropertiesMissing              = Το CustomFilePropertiesPart υπάρχει αλλά όχι το customProps.Properties ??????
+CustomPropertiesNotInFile      = Οι προσαρμοσμένες ιδιότητες δεν υπάρχουν στο αρχείο (ακόμα)
+CustomPropertiesToBeAdded      = Οι προσαρμοσμένες ιδιότητες δεν υπάρχουν στο αρχείο (ακόμα). προσθέτοντας τώρα
+FailedSetCustomProperty        = ==> Ορισμός της ιδιότητας {1} σε {2} Απέτυχε!
+TraceResult                    = ==> Αποτέλεσμα:{1}
